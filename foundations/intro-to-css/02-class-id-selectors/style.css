@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+p {
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+    color: rgb(236, 67, 67);
+    background-color: pink;
+}
+
+#second {
+    font-size: 36px;
+    color: blue;
+}
+
+.four {
+    font-size: 24px;
+}
+
+#five {
+    color: lightgreen;
+    font-weight: 700;
+}
